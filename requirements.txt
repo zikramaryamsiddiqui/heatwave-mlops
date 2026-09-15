@@ -1,0 +1,7 @@
+flask
+scikit-learn==1.8.0
+pandas
+joblib
+mlflow
+streamlit
+requests
